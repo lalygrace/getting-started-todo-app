@@ -1,4 +1,4 @@
-const GREETING = 'Hello world!';
+const GREETING = 'Hello Docker!';
 
 module.exports = async (req, res) => {
     res.send({
